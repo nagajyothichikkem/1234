@@ -6,6 +6,3 @@ sayName()
 
 def sayHEllo():
     print("Hello",name1)
-
-def sayBye():
-    print("Bye",name1)
