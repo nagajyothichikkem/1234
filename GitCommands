@@ -1,0 +1,11 @@
+git init
+git status
+git add <file-name>
+git diff
+git log --oneline
+git log
+git show <SHA>
+git blame <file-name>
+git reset <file-name> --> To remove from staging area.
+
+
