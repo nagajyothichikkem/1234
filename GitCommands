@@ -7,5 +7,6 @@ git log
 git show <SHA>
 git blame <file-name>
 git reset <file-name> --> To remove from staging area.
-
+git  commit -m "message"
+git reset --hard <SHA>  --> To delete the recent commit
 
