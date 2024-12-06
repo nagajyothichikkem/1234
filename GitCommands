@@ -17,3 +17,5 @@ git remote -v        -> shows the remote servers
 git remote add origin(any name) <remote-server-adress>
 git push -u origin
 
+git push --f 
+
